@@ -1,6 +1,6 @@
 # Fake News
 
-<img src="images/news.jpg" width ="500">
+<img src="images/fakenews.jpg" width ="500">
 
 ## Description
 
