@@ -22,7 +22,7 @@ If you have trouble with GitHub rendering the file, please try ***.
 
 ## Documentation
 
-***
+*** 
 
 ## Presentation
 
@@ -51,4 +51,5 @@ The *** can be found here in pickle format or for *** here.
 ## Credits
 
 _News [image](https://unsplash.com/photos/FPNnKfjcbNU) by Nijwam Swargiary at [Unsplash](https://unsplash.com/)_
+
 
