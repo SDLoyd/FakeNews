@@ -12,7 +12,7 @@ The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-data
 
 ## EDA 
 
-A pandas-profiling *** is available.
+A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fakenews-pandas-profile-report.html) is available.
 
 ## Code
 
