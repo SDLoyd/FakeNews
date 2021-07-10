@@ -48,6 +48,7 @@ The *** can be found here in pickle format or for *** here.
 * Pycaret
 * Tableau
 * MS PowerPoint
+* Neattext
 
 ## Credits
 
