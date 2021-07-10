@@ -16,7 +16,7 @@ A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fake
 
 ## Code
 
-The [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) is a python program created in Jupyter notebook. To view the pandas-profile, you will need to download and view in Jupyter notebook or use the link on the next line.
+The [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) is available as a Jypyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb).
 
