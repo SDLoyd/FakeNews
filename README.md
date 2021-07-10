@@ -18,7 +18,7 @@ A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fake
 
 The [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) is available as a Jypyter notebook.
 
-If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb).
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
 
 ## Documentation
 
