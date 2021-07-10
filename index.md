@@ -14,14 +14,12 @@ The Kaggle [data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-data
 
 A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fakenews-pandas-profile-report.html) is available.
 
-## Code
 
 ## Code
 
 The [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) is a python program created in Jupyter notebook. To view the pandas-profile, you will need to download and view in Jupyter notebook or use the link on the next line.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb).
-
 
 ## Documentation
 
