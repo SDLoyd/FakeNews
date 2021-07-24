@@ -21,7 +21,7 @@ All code is available in the following [folder](https://github.com/SDLoyd/FakeNe
 
 * Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
 
-* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters.ipynb).
+* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters.ipynb).
 
 * Accuracy Training at 6 months [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb).
 
