@@ -36,7 +36,7 @@ AAll code is available in the following [folder](https://github.com/SDLoyd/FakeN
 
 ## Presentation
 
-[Executive Presentation](https://youtu.be/LtM1ZlPX3Wk)
+[Executive Presentation](https://youtu.be/0De3UNE-xJc)
 
 ## Instructions
 
