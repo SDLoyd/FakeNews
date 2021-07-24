@@ -19,13 +19,17 @@ A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fake
 
 All code is available in the following [folder](https://github.com/SDLoyd/FakeNews/blob/master/code/) as Jupyter notebooks.
 
-* Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
+* Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) 
+  * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
 
-* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters.ipynb).
+* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) 
+  * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters.ipynb).
 
-* Accuracy Training at 6 months [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb).
+* Accuracy Training at 6 months [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) 
+  * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb).
 
-* Accuracy Training at 1 year [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters1yr.ipynb).
+* Accuracy Training at 1 year [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) 
+  * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters1yr.ipynb).
 
 ## Documentation
 
