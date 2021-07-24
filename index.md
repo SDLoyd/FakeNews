@@ -45,7 +45,6 @@ Try [Anaconda](https://www.anaconda.com/).
 
 The [trained model](https://github.com/SDLoyd/FakeNews/blob/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/FakeNews/blob/master/model) here.
 
-
 ## Tools
 
 * Python

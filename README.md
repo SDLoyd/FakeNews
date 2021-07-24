@@ -16,17 +16,23 @@ A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fake
 
 ## Code
 
-The [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) is available as a Jypyter notebook.
+All code is available in the following [folder](https://github.com/SDLoyd/FakeNews/blob/master/code/) as Jupyter notebooks.
 
-If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
+* Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
+
+* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters.ipynb).
+
+* Accuracy Training at 6 months [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb).
+
+* Accuracy Training at 1 year [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters1yr.ipynb).
 
 ## Documentation
 
-***
+[Executive Report](docs/fakenews_report.pdf)
 
 ## Presentation
 
-***
+[Executive Presentation](https://youtu.be/LtM1ZlPX3Wk)
 
 ## Instructions
 
@@ -36,7 +42,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model
 
-The *** can be found here in pickle format or for *** here.
+The [trained model](https://github.com/SDLoyd/FakeNews/blob/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/FakeNews/blob/master/model) here.
 
 ## Tools
 
