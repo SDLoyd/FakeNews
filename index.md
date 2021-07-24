@@ -19,13 +19,13 @@ A pandas-profiling [report](https://sdloyd.github.io/FakeNews/pandasprofile/fake
 
 All code is available in the following [folder](https://github.com/SDLoyd/FakeNews/blob/master/code/) as Jupyter notebooks.
 
-Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
+* Original [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews.ipynb).
 
-Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenewsworeuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters.ipynb).
+* Bias mitigation [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters.ipynb).
 
-Six month accuracy [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenewsworeuters6mos.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters6mos.ipynb)
+* Accuracy Training at 6 months [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb).
 
-One year accuracy [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenewsworeuters1yr.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenewsworeuters1yr.ipynb)
+* Accuracy Training at 1 year [code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) or using [notebook viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters1yr.ipynb).
 
 ## Documentation
 
