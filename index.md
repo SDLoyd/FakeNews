@@ -28,7 +28,7 @@ All code is available in the following [folder](https://github.com/SDLoyd/FakeNe
 * [Accuracy Training at 6 months](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters6mos.ipynb) 
   * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters6mos.ipynb)
 
-* [Accuracy Training at 1 year code](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) 
+* [Accuracy Training at 1 year](https://github.com/SDLoyd/FakeNews/blob/master/code/fakenews_woreuters1yr.ipynb) 
   * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/FakeNews/blob/main/code/fakenews_woreuters1yr.ipynb)
 
 ## Documentation
