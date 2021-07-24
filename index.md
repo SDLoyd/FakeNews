@@ -29,7 +29,7 @@ All code is available in the following [folder](https://github.com/SDLoyd/FakeNe
 
 ## Documentation
 
-[Executive Report](docs/fakenews.pdf)
+[Executive Report](docs/fakenews_report.pdf)
 
 ## Presentation
 
